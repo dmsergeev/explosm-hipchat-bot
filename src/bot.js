@@ -12,7 +12,3 @@ b.onConnect(function() {
   console.log(' -=- > Connect');
   this.join('????_????@conf.hipchat.com');
 });
-
-b.onMessage(function(channel, from, message) {
-  console.log(' -=- > ' + from + '@' + channel + ' said: ' + message);
-});
