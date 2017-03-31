@@ -1,0 +1,1 @@
+A wobot plugin to get a random explosm comic
