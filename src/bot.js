@@ -10,5 +10,5 @@ b.connect();
 
 b.onConnect(function() {
   console.log(' -=- > Connect');
-  this.join('????_????@conf.hipchat.com');
+  this.join('43641_i_cant_even@conf.hipchat.com');
 });
